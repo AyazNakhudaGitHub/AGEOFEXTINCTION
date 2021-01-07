@@ -1,0 +1,1 @@
+	This is a game that myself and 3 others have made. It is a game that uses python 3.7 and pygame 2.0.0.dev8 using Pycharm. This was done on April 2017.
